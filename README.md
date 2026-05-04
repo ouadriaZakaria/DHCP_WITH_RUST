@@ -1,3 +1,5 @@
+## Project structure
+```
 src/
 ├── main.rs
 ├── network/
@@ -14,3 +16,4 @@ src/
     ├── manager.rs     # CRUD for leases
     ├── pool.rs        # IP range logic
     └── lease.rs       # Lease data structure
+```
